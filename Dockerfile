@@ -1,4 +1,4 @@
-FROM alpine:3.13
+FROM alpine:3.14.1
 
 MAINTAINER Aleksandr Bochev <red.avtovo@gmail.com>
 
